@@ -1,0 +1,6 @@
+@Microsservice_AzureServiceBus_HostAddress = http://localhost:5209
+
+GET {{Microsservice_AzureServiceBus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
